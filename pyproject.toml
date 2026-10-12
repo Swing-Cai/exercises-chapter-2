@@ -8,3 +8,5 @@ version = "0.1"
 
 [tool.hatch.build.targets.wheel]
 packages = ["math_utils"]
+
+# done
